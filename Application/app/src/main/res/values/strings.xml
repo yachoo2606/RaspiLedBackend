@@ -1,0 +1,31 @@
+<resources>
+    <string name="language">pl</string>
+    <string name="app_name">Projekt</string>
+    <string name="akceptuj">Accept</string>
+    <string name="usun">Remove</string>
+    <string name="poprzedni">Previous</string>
+    <string name="nastepny">Next</string>
+    <string name="autor">Author</string>
+    <string name="data">Date</string>
+    <string name="tekst_maksymalnie_255_znakow">Text (max. 255 characters)</string>
+    <string name="zakupy">Shopping list</string>
+    <string name="obraz">Picture</string>
+    <string name="tekst">Text</string>
+    <string name="regulamin">Terms of use</string>
+    <string name="rejestracja">Create an account</string>
+    <string name="logowanie">Log in</string>
+    <string name="haslo">Password</string>
+    <string name="login">Username</string>
+    <string name="instrukcja">Manual</string>
+    <string name="kup">Buy</string>
+    <string name="moje_zakupy">My purchases</string>
+    <string name="ustawienia">Settings</string>
+    <string name="wyloguj">Log out</string>
+    <string name="zaloz_konto">Create an account</string>
+    <string name="NumerTelefonu">Phone Number</string>
+    <string name="akceptuje_regulamin">I agree to terms</string>
+    <string name="jezyk">Language</string>
+    <string name="wybierz_godzine">Choose an hour</string>
+    <string name="zatwierdz">Accept</string>
+    <string name="name">Name and Surname</string>
+</resources>
